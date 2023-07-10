@@ -1,0 +1,1 @@
+import{y as e,o,z as t,v as _}from"./entry.6edba235.js";const c={},n={width:"100%",height:"100%",viewBox:"0 0 48 48",fill:"currentColor"},s=_("path",{d:"m12.45 37.65-2.1-2.1L21.9 24 10.35 12.45l2.1-2.1L24 21.9l11.55-11.55 2.1 2.1L26.1 24l11.55 11.55-2.1 2.1L24 26.1Z"},null,-1),r=[s];function a(l,i){return o(),t("svg",n,r)}const h=e(c,[["render",a]]);export{h as _};

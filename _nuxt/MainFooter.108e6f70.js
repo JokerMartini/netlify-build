@@ -1,0 +1,1 @@
+import{b as a,o as r,z as s,v as o,C as c,u as n}from"./entry.6edba235.js";const _={class:"w-full border-t border-gray-700"},d={class:"p-12 text-gray-400"},p={__name:"MainFooter",setup(l){const e=a(()=>new Date().getFullYear());return(t,u)=>(r(),s("div",_,[o("div",d," © Ghost VFX "+c(n(e)),1)]))}};export{p as default};
